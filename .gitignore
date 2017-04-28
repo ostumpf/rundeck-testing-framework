@@ -1,0 +1,9 @@
+.idea
+*.iml
+*.orig
+build
+dist
+packages
+junit*
+target
+.coverage
